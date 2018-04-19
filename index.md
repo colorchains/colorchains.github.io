@@ -1,24 +1,20 @@
 ## Privacy Policy
 
-Francisco Marão built the Color Chains app as a Free app. This SERVICE is provided by Francisco Marão at no cost and is intended for use as is.
+I built the Color Chains Free app as a Free app. This Free version is provided by me at no cost and is intended for use as is.
 
 This page is used to inform app users regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my App.
 
 I do not collect any Personal Information.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Color Chains unless otherwise defined in this Privacy Policy.
-
 **Information Collection and Use**
 
 The app does use third party services that may collect information used to identify you.
 
-<div>
 
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
-</div>
 
 **Log Data**
 
